@@ -1,3 +1,4 @@
+<?php
 /** BAD ENG
  * @param $emails as array
  * @param array $blacklistDomains (optional)
