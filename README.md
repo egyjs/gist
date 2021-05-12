@@ -1,5 +1,5 @@
 # gist
-A. Elzahaby (egy.js) | All Gists
+A. Elzahaby (egyjs) | All Gists
 
  ```/** BAD ENG
  * @param $emails as array
